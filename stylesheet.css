@@ -1,0 +1,10 @@
+body {
+    background-color: pink;
+}
+
+p {
+    font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    border: 5px dotted gray;
+}
